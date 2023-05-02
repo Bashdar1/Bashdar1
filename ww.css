@@ -233,7 +233,7 @@ hr.new5 {
 	color: white;
 	text-align: center;
 
-background-image: url(back-image.jpg);
+background-image: url(back-image.jpg.jpeg);
 
   
   }
@@ -241,7 +241,7 @@ background-image: url(back-image.jpg);
  .Aboute{
 	max-width: 100%;
 	padding: 100px 0px;
-	background-image: url(photo.jpg) ;
+	background-image: url(photo.jpg.jpeg) ;
  }
 .Aboute img{
 	height: 400px;
